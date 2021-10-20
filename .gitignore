@@ -1,0 +1,7 @@
+venv/
+temp/
+.rpa/
+.idea/
+.DS_Store
+*.pyc
+
